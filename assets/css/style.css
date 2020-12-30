@@ -406,4 +406,9 @@ div#map {
         margin: 0 auto;
         max-width: 50%;
     }
+/*------------------------------------------------GitHubDiv*/
+.ghub{
+    width: 100%;
+}
+
 }
