@@ -23,6 +23,7 @@ function repoInformationHTML(repos){
      <p><strong>Repo List:</strong></p>
      <ul>
         ${listItemsHTML.join("\n")}</ul></div>`;
+    }
 
 
 function fetchGitHubInformation(event) {
